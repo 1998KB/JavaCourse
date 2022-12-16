@@ -19,5 +19,4 @@ public class TestResultUpdate extends TestResult{
             }
         }
     }
-
 }
