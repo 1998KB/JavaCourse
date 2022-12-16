@@ -18,10 +18,6 @@ public class TestResultUpdate extends TestResult{
                 System.out.println("Student: " + student.getKey() + ", Grade:" + update.get(student.getKey()));
             }
         }
-
-
-
-
     }
 
 }
